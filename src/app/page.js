@@ -15,7 +15,7 @@ export default function Home() {
             <h1 className=" text-2xl text-center font-bold text-white mb-4 md:text-5xl lg:text-6xl lg:-mt-16">
               Welcome to TechXima
             </h1>
-            <p className="text-xl font-bold text-white text-center mb-6">
+            <p className="text-xl font-bold text-white text-center mb-6 md:text-3xl">
               Home of all your tech solutions
             </p>
           </div>
