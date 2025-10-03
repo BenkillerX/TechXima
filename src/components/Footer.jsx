@@ -49,12 +49,12 @@ const Footer = () => {
             <li>Phone: +234 803 388 5711</li>
             <li>Lagos, Nigeria</li>
           </ul>
-          <div className="flex space-x-4 mt-4">
+          {/* <div className="flex space-x-4 mt-4">
             <a href="#" className="hover:text-white">🌐</a>
             <a href="#" className="hover:text-white">🐦</a>
             <a href="#" className="hover:text-white">📸</a>
             <a href="#" className="hover:text-white">💼</a>
-          </div>
+          </div> */}
         </div>
       </div>
 
