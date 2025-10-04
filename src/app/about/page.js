@@ -85,7 +85,7 @@ const page = () => {
         </div>
         <div className="bg-white rounded-xl shadow-lg p-8 flex flex-col items-center">
   <img 
-    src='/DevBen.jpg' 
+    src='/The.jpg' 
     alt='Software Developer' 
     className='w-40 h-40 object-cover rounded-full mb-6 border-4 border-gray-200 shadow'
   />
